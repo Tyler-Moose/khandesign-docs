@@ -97,8 +97,8 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "docs"
-  name = "Installation"
-  url = "installation"
+  name = "FiveM"
+  url = "fivem"
   weight = 1
 
   [[Languages.en.menu.main]]
